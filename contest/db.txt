@@ -1,0 +1,10 @@
+;lost;Groupe1;:-)<script type="text/javascript">$("#div_2").prop("style", "").prop("class", "win");</script>
+;win;G;G
+;error;grp3;OK
+;lost;Allez;Allez
+;win;groupe5;groupe5
+;win;g6;g6
+;win;sameplayer;shootsagain
+;win;bonjour;groupe8
+;win;CloudChallengeWinnerOftheWorldOfTheUniverse;CloudChallengeWinnerOftheWorldOfTheUniverse
+;error;euf;euf

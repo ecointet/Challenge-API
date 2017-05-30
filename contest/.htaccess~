@@ -1,0 +1,7 @@
+RewriteEngine on
+RewriteRule ^api.xml/([a-zA-Z0-9_-]+)$ api.php?mode=$1 [QSA]
+
+php_flag display_startup_errors on
+php_flag display_errors on
+php_flag html_errors on
+php_flag  log_errors on
